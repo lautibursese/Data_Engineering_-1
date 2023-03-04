@@ -50,14 +50,8 @@ The queries to be made are:
 
 4. Make requested inquiries
 
-5. Make a demonstration video
-
 <p align=center>
 <img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
-
-## **Demo video**
-
-A video will be made presenting the work and executing the mentioned tasks, it will **not exceed 5 minutes**. It will include a brief personal presentation, the project, code execution and mentioned tasks.
 
 ## **Concepts of interest**
 
